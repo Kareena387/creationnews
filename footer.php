@@ -1,11 +1,12 @@
-<div class="container mt-5">
+<!--<div class="container mt-5">
     <div class="row">
         <div class="col-md-12">
             <h1>Footer Section</h1>
         </div>
     </div>
-</div>
+</div>-->
 
+<br> <br>
 
 <footer class="bg-dark text-white pt-4">
     <div class="container text-center text-md-left">
